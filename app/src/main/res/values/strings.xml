@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">To-Doin</string>
+    <string name="app_name">To-Do-in</string>
+    <string name="intro">To-Do-in merupakan list perencanaan untuk melakukan sesuatu. Cobalah sekarang!</string>
+    <string name="add_task">Add a task</string>
+    <string name="add">ADD</string>
+    <string name="done">DONE</string>
+
 </resources>
